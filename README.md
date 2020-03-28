@@ -1,10 +1,17 @@
 # Proyecto-Final
 Proyecto Final
+
 API Link
 
-https://webapicsharp20200325224312.azurewebsites.net/
+https://cxcollegeapi.azurewebsites.net/api/student
 
-http://sahira-001-site1.dtempurl.com/
+DataBase Web
+https://mssql.site4now.net/default.asp
+
+User: DB_A56A35_Sahira_admin
+Password:noneww44
+Server IP:sql5031.site4now.net
+Database Nmae:DB_A56A35_Sahira
 
 GitHub Repositorio
 
